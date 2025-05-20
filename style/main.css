@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background-color: #000;
+  color: #fff;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  padding: 2rem;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+nav {
+  margin-bottom: 3rem;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 1.5rem;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 1px;
+}
+
+nav a:hover {
+  color: #888;
+}
+
+audio {
+  width: 100%;
+  margin-top: 0.5rem;
+  outline: none;
+  display: block;
+}
